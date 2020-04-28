@@ -122,6 +122,11 @@ namespace Redmine.Net.Api
         /// <summary>
         /// 
         /// </summary>
+        public const string DEFAULT_STATUS = "default_status";
+
+        /// <summary>
+        /// 
+        /// </summary>
         public const string CUSTOMIZED_TYPE = "customized_type";
         /// <summary>
         /// 
